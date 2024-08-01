@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Myself Ishan Peshkar
-## An Full Stack Web Developer and Machine Learning Engineer from India.
+## A Full Stack Web Developer and Machine Learning Engineer from India.
 
 <!--
 **ISHANPESHKAR/ISHANPESHKAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
