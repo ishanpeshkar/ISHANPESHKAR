@@ -13,9 +13,9 @@ Here are some ideas to get you started:
   
 - 👯 I’m looking to collaborate with like minded individuals to participate for hackathons and projects.
   
-- 💬 Ask me about Machine Learning and Data analysis.
+- 💬 Ask me about Web Development, Machine Learning and Data analysis.
   
-- 📫 Reach me via mail: ishanpeshkar@gmail.com
+- 📫 Reach me via mail: ishanpeshkar@gmail.com  or LinkedIn: https://www.linkedin.com/in/ishan-peshkar/
   
 - ⚡ Fun fact: Daily activity on Github is good for Health. 
 
