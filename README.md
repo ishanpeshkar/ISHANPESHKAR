@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ishanpeshkar&show_icons=true&theme=transparent"/>
 </p>
 
-### Programming languages👨‍💻
+### 👨‍💻Programming languages
 
 <p align="center">
     <img alt="My most used laguages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sawarijamgaonkar&show_icons=true&locale=en&layout=compact&theme=gotham"/>
