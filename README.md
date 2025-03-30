@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 
 ## Github Stats
 <p align="center">
-  <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ishanpeshkar&show_icons=true&theme=transparent"/>
+  <!-- <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ishanpeshkar&show_icons=true&theme=transparent"/> -->
+  My Stats
 </p>
 
 ### 👨‍💻Programming languages
 
 <p align="center">
-    <img alt="My most used laguages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sawarijamgaonkar&show_icons=true&locale=en&layout=compact&theme=gotham"/>
+    <!-- <img alt="My most used laguages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sawarijamgaonkar&show_icons=true&locale=en&layout=compact&theme=gotham"/> -->
+  My Languages
 </p>
 
 ### 🧰 Frameworks and libraries
