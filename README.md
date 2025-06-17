@@ -1,12 +1,16 @@
 <h1 align="center">
   <p align="center">
-  <strong> Hi there 👋</strong><br>
-  <strong> Myself Ishan Peshkar</strong><br>
+  <strong> Hi there 👋 , Myself Ishan Peshkar</strong><br>
   <strong> A Data Analyst, Full Stack Web Developer and Machine Learning Engineer from India.</strong>
  </p>
 </h1>
 
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanpeshkar" alt="ishanpeshkar" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <!--
 **ISHANPESHKAR/ISHANPESHKAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
