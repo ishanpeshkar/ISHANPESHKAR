@@ -63,3 +63,10 @@ Here are some ideas to get you started:
 
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ishan-peshkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abheet-seth" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ishan.10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abheet seth" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/IshanPeshkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abheet_seth_" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/ishanpe9y8o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asethq4nl" height="30" width="40" /></a>
+</p>
