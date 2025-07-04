@@ -1,7 +1,7 @@
 <h1 align="center">
   <p align="center">
   <strong> Hi there 👋 , Myself Ishan Peshkar</strong><br>
-  <strong> A Data Analyst, Full Stack Web Developer and Machine Learning Engineer from India.</strong>
+  <strong> Certified Data Analyst, Full Stack Web Developer and a Machine Learning enthusiast from India.</strong>
  </p>
 </h1>
 
