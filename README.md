@@ -44,6 +44,25 @@ Here are some ideas to get you started:
   My Languages
 </p>
 
+### 🏆 Coding Profiles
+<p align = "center" >
+  [![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/IshanPeshkar/)
+  [![GeeksForGeeks Profile](https://img.shields.io/badge/-GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ishanpe9y8o/)
+</p>
+
+
+### Leetcode stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ishanpeshkar?theme=dark&font=Share%20Tech%20Mono)]([https://leetcode.com/u/pragninaik/g](https://leetcode.com/u/IshanPeshkar/))
+
+
+### 📈 GitHub Activity
+
+![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanpeshkar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpeshkar&layout=compact&theme=radical&hide_border=true)
+
+[![Ishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishanpeshkar&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🧰 Frameworks and libraries
 
 <p align="center">
