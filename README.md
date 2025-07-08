@@ -1,6 +1,7 @@
 <h1 align="center">
   <p align="center">
-  <strong> Hi there 👋 , Myself Ishan Peshkar</strong><br>
+  <strong> Hi there 👋 </strong><br> 
+  <strong> Myself Ishan Peshkar</strong><br>
   <strong> Certified Data Analyst, Full Stack Web Developer and a Machine Learning enthusiast from India.</strong>
  </p>
 </h1>
