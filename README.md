@@ -1,139 +1,95 @@
-<h1 align="center">
-  <p align="center">
-    <strong>Hi there 👋</strong><br> 
-    <strong>I'm Ishan Peshkar</strong><br>
-    <strong>Certified Data Analyst 📊 | Full Stack Web Developer 💻 | ML Enthusiast 🤖 from India 🇮🇳</strong>
-  </p>
-</h1>
+<!--
+  GitHub profile README for @ishanpeshkar
+  Keep this page focused on shipped work, engineering interests, and clear ways to connect.
+-->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishanpeshkar&label=Profile%20views&color=0e75b6&style=flat" alt="ishanpeshkar" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishanpeshkar&theme=onestar&margin-w=10" alt="Trophies" />
-  </a>
-</p>
+# Hey, I'm Ishan Peshkar 👋
 
----
+### AI Engineer · Backend Developer · Builder
 
-### 👨‍💻 About Me
+I build **LLM-powered applications, multi-agent workflows, and data-intensive systems** — with a focus on making AI useful, structured, and reliable.
 
-- 🔭 I’m currently working on exciting GenAI projects.
-- 🌱 Learning Backend Development, DSA, and core AI/ML concepts.
-- 🤝 Open to collaborating on hackathons and impactful projects.
-- 💬 Ask me about **GenAI**, **Web Development**, **Machine Learning**, and **Data Science**.
-- 📫 Reach me: `ishanpeshkar@gmail.com` | [LinkedIn](https://www.linkedin.com/in/ishan-peshkar/)
-- ⚡ Fun fact: **Daily GitHub commits = Developer gains 😎**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-peshkar/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ishanpeshkar@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ishanpeshkar?label=Followers&style=flat&logo=github)](https://github.com/ishanpeshkar)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanpeshkar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpeshkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanpeshkar&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanpeshkar&theme=react-dark&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
+- 🤖 Exploring **AI engineering**: LLM applications, RAG, agentic workflows, evaluation, and guardrails.
+- ⚙️ Building backend services and APIs with **Python, FastAPI, and Pydantic**.
+- 🧠 Interested in multi-agent orchestration, AI governance, observability, and dependable systems.
+- 🏗️ Learning by building end-to-end projects — from data pipelines and model workflows to usable applications.
+- 🤝 Open to collaborating on thoughtful AI, backend, and open-source projects.
 
----
+## Selected Projects
 
-## 📈 Coding Profiles
+A few projects that represent the kind of problems I enjoy solving:
 
-<p align="center">
-  <a href="https://leetcode.com/u/IshanPeshkar/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/ishanpe9y8o/">
-    <img src="https://img.shields.io/badge/-GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [**ReguGuard AI**](https://github.com/ishanpeshkar/ReguGuardAI) | Multi-agent regulatory intelligence workflow: compares circulars, assesses applicability, scores risk, and creates an audit-ready report. | Python · LangChain · Gemini · FAISS · Pydantic |
+| [**AI Invoice & Document Extraction**](https://github.com/ishanpeshkar/AI-invoice-document-extraction-tool) | Extracts structured invoice data from PDFs, images, and documents, with OCR/vision modes and human review. | FastAPI · React · Groq · EasyOCR · Supabase |
+| [**CinePulse**](https://github.com/ishanpeshkar/AI-System-for-Predicting-and-Optimizing-User-Engagement) | Multi-model recommendation system combining graph learning, Random Forest, LSTM, and reinforcement learning. | PyTorch · FastAPI · React · ML |
+| [**Multi-Agent GenAI Business Analyst**](https://github.com/ishanpeshkar/Multi-Agent-GenAI-Business-Analyst) | Agent workflow for business insights, strategy recommendations, and RAG-based governance checks. | Python · Ollama · LangChain · FAISS · Streamlit |
+| [**FastAPI LLM Validator**](https://github.com/ishanpeshkar/FastAPI-based-LLM-Validator) | Schema-constrained LLM API with Pydantic validation and typed responses. | FastAPI · Gemini · Pydantic |
 
-### 🧮 LeetCode Stats
+> I’m continually improving these projects — check the repositories for implementation details, setup instructions, and current status.
 
-<p align="center">
-  <a href="https://leetcode.com/u/IshanPeshkar/">
-    <img src="https://leetcard.jacoblin.cool/ishanpeshkar?theme=dark&font=Share%20Tech%20Mono" alt="LeetCode Stats"/>
-  </a>
-</p>
+## Technical Toolkit
 
----
+**AI / LLM Engineering**
 
-## 🧰 Frameworks & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
+**Backend / Data / Infrastructure**
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-## 💻 Software & Tools
+**Application Development**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F37626?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-222222?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-F37626?style=for-the-badge&logo=Cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
+## Currently Exploring
 
-## 🧑‍🔧 Languages and Technologies
+- LLM evaluation, structured outputs, and reliability testing
+- AI safety, guardrails, and data governance
+- MCP, tool use, and multi-agent orchestration
+- Observability, latency, and performance of AI applications
+- Production-minded backend and data engineering
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-</p>
+## Beyond the Code
 
----
+I enjoy turning ideas into working prototypes, learning from real engineering problems, and sharing what I discover along the way.
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishan-peshkar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_ishan.10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/IshanPeshkar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/ishanpe9y8o/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" />
-  </a>
-</p>
+### Let's connect and build something useful.
+
+[LinkedIn](https://www.linkedin.com/in/ishan-peshkar/) · [LeetCode](https://leetcode.com/u/IshanPeshkar/) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/ishanpe9y8o/) · [Email](mailto:ishanpeshkar@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=ishanpeshkar&style=flat&color=64748b)
+
+</div>
