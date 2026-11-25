@@ -1,95 +1,235 @@
 <!--
-  GitHub profile README for @ishanpeshkar
-  Keep this page focused on shipped work, engineering interests, and clear ways to connect.
+  Ishan Peshkar | GitHub Profile
+  A visual overview of my engineering interests, hands-on work, and developer journey.
 -->
 
 <div align="center">
 
-# Hey, I'm Ishan Peshkar 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:164E63,70:2563EB,100:7C3AED&height=190&section=header&text=ISHAN%20PESHKAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=16&descAlignY=58&animation=twinkling" />
 
-### AI Engineer · Backend Developer · Builder
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+intelligent+software%2C+not+just+demos.;Turning+LLMs+into+useful+ 제품+and+workflows.;From+interfaces+and+APIs+to+AI-powered+systems.;Curious+by+default.+Engineer+by+practice." alt="Typing SVG" />
+</a>
 
-I build **LLM-powered applications, multi-agent workflows, and data-intensive systems** — with a focus on making AI useful, structured, and reliable.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-peshkar/)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ishanpeshkar@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ishanpeshkar?label=Followers&style=flat&logo=github)](https://github.com/ishanpeshkar)
+<a href="https://github.com/ishanpeshkar">
+  <img src="https://komarev.com/ghpvc/?username=ishanpeshkar&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile views" />
+</a>
+&nbsp;
+<a href="https://github.com/ishanpeshkar?tab=followers">
+  <img src="https://img.shields.io/github/followers/ishanpeshkar?label=FOLLOWERS&style=for-the-badge&logo=github&color=334155" alt="GitHub followers" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ishan-peshkar/">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🤖 Exploring **AI engineering**: LLM applications, RAG, agentic workflows, evaluation, and guardrails.
-- ⚙️ Building backend services and APIs with **Python, FastAPI, and Pydantic**.
-- 🧠 Interested in multi-agent orchestration, AI governance, observability, and dependable systems.
-- 🏗️ Learning by building end-to-end projects — from data pipelines and model workflows to usable applications.
-- 🤝 Open to collaborating on thoughtful AI, backend, and open-source projects.
+## ✦ The Engineer Behind the Code
 
-## Selected Projects
+I’m **Ishan Peshkar**, an AI Engineer and Software Developer interested in building software that is useful, thoughtful, and dependable.
 
-A few projects that represent the kind of problems I enjoy solving:
+I enjoy working across the stack — shaping user-facing experiences, designing backend services, integrating data, and bringing AI capabilities into real application workflows.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**ReguGuard AI**](https://github.com/ishanpeshkar/ReguGuardAI) | Multi-agent regulatory intelligence workflow: compares circulars, assesses applicability, scores risk, and creates an audit-ready report. | Python · LangChain · Gemini · FAISS · Pydantic |
-| [**AI Invoice & Document Extraction**](https://github.com/ishanpeshkar/AI-invoice-document-extraction-tool) | Extracts structured invoice data from PDFs, images, and documents, with OCR/vision modes and human review. | FastAPI · React · Groq · EasyOCR · Supabase |
-| [**CinePulse**](https://github.com/ishanpeshkar/AI-System-for-Predicting-and-Optimizing-User-Engagement) | Multi-model recommendation system combining graph learning, Random Forest, LSTM, and reinforcement learning. | PyTorch · FastAPI · React · ML |
-| [**Multi-Agent GenAI Business Analyst**](https://github.com/ishanpeshkar/Multi-Agent-GenAI-Business-Analyst) | Agent workflow for business insights, strategy recommendations, and RAG-based governance checks. | Python · Ollama · LangChain · FAISS · Streamlit |
-| [**FastAPI LLM Validator**](https://github.com/ishanpeshkar/FastAPI-based-LLM-Validator) | Schema-constrained LLM API with Pydantic validation and typed responses. | FastAPI · Gemini · Pydantic |
+My focus is moving beyond a model call or a quick prototype: understanding the surrounding system, making components work together, and paying attention to validation, maintainability, and the user experience.
 
-> I’m continually improving these projects — check the repositories for implementation details, setup instructions, and current status.
-
-## Technical Toolkit
-
-**AI / LLM Engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**Backend / Data / Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-
-**Application Development**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## Currently Exploring
-
-- LLM evaluation, structured outputs, and reliability testing
-- AI safety, guardrails, and data governance
-- MCP, tool use, and multi-agent orchestration
-- Observability, latency, and performance of AI applications
-- Production-minded backend and data engineering
-
-## Beyond the Code
-
-I enjoy turning ideas into working prototypes, learning from real engineering problems, and sharing what I discover along the way.
+</td>
+<td width="42%" valign="center">
 
 <div align="center">
 
-### Let's connect and build something useful.
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,docker,supabase,postgres,mongodb,git&perline=4&theme=dark" />
 
-[LinkedIn](https://www.linkedin.com/in/ishan-peshkar/) · [LeetCode](https://leetcode.com/u/IshanPeshkar/) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/ishanpe9y8o/) · [Email](mailto:ishanpeshkar@gmail.com)
+<br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=ishanpeshkar&style=flat&color=64748b)
+**Based in India 🇮🇳**  
+**Curiosity → Experiments → Engineering**
+
+</div>
+</td>
+</tr>
+</table>
+
+## ✦ What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI Engineering
+- LLM-powered application development
+- Retrieval-Augmented Generation (RAG)
+- Agentic workflows and orchestration
+- Structured outputs and schema validation
+- Prompt design, evaluation and guardrails
+- AI-assisted document and data workflows
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Software Development
+- Full-stack application development
+- Responsive interfaces and component-driven UI
+- Backend services and REST API design
+- Database modelling and integration
+- Authentication and application workflows
+- Containerized development and delivery
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Engineering Practices
+- Modular architecture and separation of concerns
+- API contracts and type-safe development
+- Error handling and input validation
+- Git-based collaboration and code reviews
+- Debugging, testing and maintainability
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Exploring Next
+- MCP and tool-connected AI systems
+- Multi-agent coordination patterns
+- LLM observability and tracing
+- Latency, reliability and performance testing
+- AI governance and data quality
+
+</td>
+</tr>
+</table>
+
+## ✦ Technology Universe
+
+<p align="center">
+  <sub><b>AI · DATA · INTELLIGENCE</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-0369A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub><b>APPLICATION DEVELOPMENT</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,html,css,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>BACKEND · DATABASE · CLOUD · TOOLING</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,supabase,postgres,mongodb,redis,git,github,linux,postman,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>DATA & ANALYTICS</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## ✦ GitHub in Motion
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=ishanpeshkar&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+</a>
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ishanpeshkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub statistics" />
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpeshkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanpeshkar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishanpeshkar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishanpeshkar&theme=tokyonight" alt="GitHub profile summary" />
+
+<br/><br/>
+
+<img width="98%" src="https://raw.githubusercontent.com/ishanpeshkar/ISHANPESHKAR/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+
+</div>
+
+---
+
+## ✦ Beyond GitHub
+
+<div align="center">
+
+### Consistency is a feature.
+
+I also practise problem-solving and keep sharpening my fundamentals through coding challenges.
+
+<a href="https://leetcode.com/u/IshanPeshkar/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/ishanpe9y8o/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/IshanPeshkar/">
+  <img width="65%" src="https://leetcard.jacoblin.cool/ishanpeshkar?theme=dark&font=Share%20Tech%20Mono&ext=heatmap" alt="LeetCode statistics and activity" />
+</a>
+
+</div>
+
+---
+
+## ✦ Find Me Around the Web
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ishan-peshkar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ishanpeshkar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop%20me%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/IshanPeshkar/">
+  <img src="https://img.shields.io/badge/LeetCode-Practise%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/ishanpe9y8o/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Explore-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Open to interesting conversations, collaborations, and engineering opportunities.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:2563EB,70:164E63,100:0F172A&height=120&section=footer" />
+
+<sub>Designed with curiosity & built one commit at a time · © Ishan Peshkar</sub>
 
 </div>
