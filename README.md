@@ -166,6 +166,14 @@ My focus is moving beyond a model call or a quick prototype: understanding the s
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishanpeshkar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
 
+<br/><br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishanpeshkar&theme=tokyonight" alt="GitHub profile summary" />
+
+<br/><br/>
+
+<img width="98%" src="https://raw.githubusercontent.com/ishanpeshkar/ISHANPESHKAR/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+
 </div>
 
 ---
