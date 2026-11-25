@@ -135,7 +135,7 @@ My focus is moving beyond a model call or a quick prototype: understanding the s
 
 <p align="center">
   <sub><b>DATA & ANALYTICS</b></sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i= numpy,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
